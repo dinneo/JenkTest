@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					AE8181B51E2FC1A6001B7F70 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = KY7DNA87GT;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KY7DNA87GT;
 				INFOPLIST_FILE = JenkTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.test.JenkTest;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KY7DNA87GT;
 				INFOPLIST_FILE = JenkTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.test.JenkTest;
@@ -299,6 +302,7 @@
 				AE8181CA1E2FC1A7001B7F70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

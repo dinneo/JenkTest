@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         let a = 1
         _ = a
         
+        
+        let ccc = 255
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
